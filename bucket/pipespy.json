@@ -1,18 +1,18 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "TUI that shows the data flowing through every pipe of a shell pipeline",
     "homepage": "https://github.com/junyu-w/pipespy",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/junyu-w/pipespy/releases/download/v0.2.0/pipespy_0.2.0_windows_amd64.zip",
-            "hash": "d2ca905a9d3959eef10e770bc621504bfd817dcb426a574d61de4393f1825aec",
-            "extract_dir": "pipespy_0.2.0_windows_amd64"
+            "url": "https://github.com/junyu-w/pipespy/releases/download/v0.3.0/pipespy_0.3.0_windows_amd64.zip",
+            "hash": "ebb6952ba12abde5702b685724ec308d3a95366376bae91ffcbf9949f4b582c5",
+            "extract_dir": "pipespy_0.3.0_windows_amd64"
         },
         "arm64": {
-            "url": "https://github.com/junyu-w/pipespy/releases/download/v0.2.0/pipespy_0.2.0_windows_arm64.zip",
-            "hash": "9b4a91add66010f684da36be4263caaec18ee7ffe48f25522db89e066fa49a63",
-            "extract_dir": "pipespy_0.2.0_windows_arm64"
+            "url": "https://github.com/junyu-w/pipespy/releases/download/v0.3.0/pipespy_0.3.0_windows_arm64.zip",
+            "hash": "0ed59fbca094409d026abcc8fde19767886f613f87e0e10b0c6b8148c2309c81",
+            "extract_dir": "pipespy_0.3.0_windows_arm64"
         }
     },
     "bin": "pipespy.exe",
